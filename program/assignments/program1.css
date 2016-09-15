@@ -1,0 +1,107 @@
+body {
+	font-family: Georgia, Garamond;
+	background-color: #FFCC00;
+	color: #000000;
+}
+
+table{
+	background-color: #CC9933;
+	color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+	margin-top:20px;
+}
+
+th{
+	border: 2px solid #FFFFFF;
+	background-color: #003366;
+	text-align:center;
+	padding: 5px 5px 5px 5px;
+}
+
+td{
+	border:2px solid #FFFFFF;
+	padding: 5px 5px 5px 5px;
+}
+
+td.blue{
+	background-color: #003366;
+}
+
+h1,h2{
+	background-color: #F0F0F0;
+	text-align:center;
+	color: #A4A400;
+	font-family: "Century Gothic", Future, Verdana;
+	letter-spacing: 20px;
+}
+
+th.head{
+	font-family: "Century Gothic", Future, Verdana;
+	background-color: #F0F0F0;
+	color: #A4A400;
+}
+
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.alte {
+	background-color:blue;
+	float: left;
+}
+
+li.first {
+	background-color: #FFFF00;
+	float: left;
+}
+
+h4{
+	font-weight: bold;
+}
+
+ul.appimg {
+	list-style-image: url('apple.jpg');
+}
+
+p.bio {
+	text-align: justify;
+	font-weight: bold;
+	color: blue;
+}
+
+hr {
+	width: 45%;
+	display: block;
+	text-align: center;
+}
+
+blockquote {
+	font-family: Arial;
+	font-size: 28px;
+	background: blue;
+	color: white;
+}
+
+img.caption {
+	font-size: 80%;
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+	
+}
+
+
+
+
+	
